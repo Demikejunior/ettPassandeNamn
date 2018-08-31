@@ -16,6 +16,8 @@
         2.2. om input 1 är negativt och input 2 är 0 blir svar 23
         2.3. om input 1 är 0 och input 2 är negativt blir avar 34
         2.4. om input 1 är positivt och input 2 är 0 blir svar 41
+        2.5. om både input 1&2 är 0 blir svar 0
+        
 
 
 
@@ -24,7 +26,7 @@
     
     
         1.1. om input 1 är mer än 0 sätt var till input 2 minus 1
-        1.2. om input 1 är mer än 1 sätt var till (31+input 2)
+        1.2. om input 1 är mer än 1 addera 30 till var
         1.3. om input 1 är mer än 2 addera 28 till var
         1.4. om input 1 är mer än 3 addera 31 till var
         1.5. om input 1 är mer än 4 addera 30 till var
